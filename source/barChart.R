@@ -1,3 +1,4 @@
+# Datos obtenidos de: https://www.kaggle.com/datasets/muhammadroshaanriaz/students-performance-dataset-cleaned?resource=download
 # Carga de datos y librerías
 data <- read.csv("Cleaned_Students_Performance.csv")
 library(dplyr)
