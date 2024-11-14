@@ -19,6 +19,7 @@ df <- data.frame(
 
 
 # Visualización
+# Para poder crear la visualización he seguido la siguiente guia: https://medium.com/@putri.a.purwono/visualizing-correlation-analysis-results-through-a-chord-diagram-using-the-circlize-package-on-r-6a2d76f65a6d
 library(circlize)
 
 
